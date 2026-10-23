@@ -1,0 +1,16 @@
+# Credentials - never commit
+config/switch.txt
+docs/
+
+# Run artifacts
+out/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.venv/
+
+# Aider history
+.aider*

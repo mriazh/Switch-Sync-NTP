@@ -1,0 +1,14 @@
+show sntp
+
+ SNTP Configuration
+
+  Time Sync Mode: Sntp
+  SNTP Mode : Unicast
+  Poll Interval (sec) [720] : 720
+
+
+  Priority SNTP Server Address                            Protocol Version
+  -------- ---------------------------------------------- ----------------
+  1        192.168.240.240                                3                
+
+SW01-UPG-2520#

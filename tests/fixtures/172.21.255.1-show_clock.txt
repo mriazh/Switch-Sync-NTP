@@ -1,0 +1,4 @@
+show clock
+Tue Oct 20 10:01:25 WIB 2026
+System is configured for timezone : Asia/Jakarta
+CSW01-MD-LT2-PRIMARY#

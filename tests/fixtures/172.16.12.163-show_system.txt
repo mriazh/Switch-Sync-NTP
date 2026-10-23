@@ -1,0 +1,24 @@
+show system
+ Status and Counters - General System Information
+
+  System Name        : SW-MD-L1-2530                                   
+  System Contact     : 
+  System Location    : MD Lt.1
+
+  MAC Age Time (sec) : 300    
+
+  Time Zone          : 420  
+  Daylight Time Rule : None                      
+
+  Software revision  : YA.15.17.0009        Base MAC Addr      : e0071b-99e7c0
+  ROM Version        : YA.15.17             Serial Number      : SERIAL  
+
+  Up Time            : 37 days              Memory   - Total   : 67,108,864  
+  CPU Util (%)       : 26                              Free    : 41,012,752  
+
+  IP Mgmt  - Pkts Rx : 11,823,790           Packet   - Total   : 3022        
+             Pkts Tx : 9,843,799            Buffers    Free    : 2829        
+                                                       Lowest  : 2690        
+                                                       Missed  : 0           
+
+SW-MD-L1-2530#

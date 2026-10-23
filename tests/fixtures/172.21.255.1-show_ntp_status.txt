@@ -1,0 +1,12 @@
+show ntp status
+NTP Status Information
+
+NTP                        : Enabled
+NTP Authentication         : Disabled
+NTP Server Connections     : Using the default VRF
+
+System time                : Tue Oct 20 10:01:19 WIB 2026
+NTP uptime                 : 955 days, 8 hours, 37 minutes, 49 seconds
+
+Not synchronized with an NTP server.
+CSW01-MD-LT2-PRIMARY#

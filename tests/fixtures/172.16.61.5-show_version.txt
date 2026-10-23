@@ -1,0 +1,7 @@
+show version
+Image stamp:    /sw/code/build/walle(t4b_release)
+                Jul 27 2009 01:04:24
+                J.14.01
+                474
+Boot Image:     Primary
+SW01-UPG-2520#

@@ -1,0 +1,11 @@
+show version
+Image stamp:    /ws/swbuildm/rel_venice_qaoff/code/build/lvm(swbuildm_rel_venice_qaoff_rel_venice)
+                Dec 22 2017 14:30:16
+                WC.16.05.0004
+                607
+Boot Image:     Primary
+
+Boot ROM Version:    WC.16.01.0004
+Active Boot ROM:     Primary
+
+ASW01-MD-DC#

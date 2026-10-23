@@ -1,0 +1,11 @@
+show version
+Image stamp:    /ws/swbuildm/rel_zootopia_qaoff/code/build/bom(swbuildm_rel_zootopia_qaoff_rel_zootopia)
+                Jun 13 2019 00:13:44
+                KB.16.09.0001
+                459
+Boot Image:     Secondary
+
+Boot ROM Version:    KB.16.01.0009
+Active Boot ROM:     Primary
+
+DSW01-HG4-LT.1#

@@ -1,0 +1,3 @@
+show time
+Tue Oct 20 10:02:43 2026
+SW01-UPG-2520#

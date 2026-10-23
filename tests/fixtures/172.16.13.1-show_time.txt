@@ -1,0 +1,2 @@
+show timeTue Oct 20 10:04:50 2026
+DSW01-HG4-LT.1#

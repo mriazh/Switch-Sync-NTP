@@ -1,0 +1,14 @@
+show sntp
+ SNTP Configuration and Status
+
+  Time Sync Mode      : TIMEP/SNTP
+
+  SNTP Mode           : DHCP
+  Poll Interval (sec) : 720
+  SNTP Authentication : Disabled
+  Source IP Selection : Outgoing Interface
+
+  SNTP Server Address                      VLAN Active
+  ---------------------------------------  ---- ------
+
+SW-MD-L2-UNTA#

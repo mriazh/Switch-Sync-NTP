@@ -1,0 +1,1 @@
+show running-config | include sntpSW-MD-L2-UNTA#

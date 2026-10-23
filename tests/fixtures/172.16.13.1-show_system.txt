@@ -1,0 +1,38 @@
+show system
+ Status and Counters - General System Information
+
+  System Name        : DSW01-HG4-LT.1                                  
+  System Contact     : 
+  System Location    : 
+
+  Allow V2 Modules   : No
+  MAC Age Time (sec) : 300    
+  Time Zone          : 420  
+  Daylight Time Rule : None                      
+
+  Software revision  : KB.16.09.0001      
+  Base MAC Addr      : 040973-39973f    
+
+ VSF-Member :1
+
+  ROM Version        : KB.16.01.0009                 
+  Up Time            : 50 days        
+  CPU Util (%)       : 9           
+  MAC Addr           : 040973-398700    
+  Serial Number      : SERIAL                              
+  Memory   - Total   : 687,767,552 
+             Free    : 493,183,720 
+
+
+
+ VSF-Member :2
+
+  ROM Version        : KB.16.01.0009                 
+  Up Time            : 50 days        
+  CPU Util (%)       : 0           
+  MAC Addr           : 040973-48a800    
+  Serial Number      : SERIAL                              
+  Memory   - Total   : 687,767,552 
+             Free    : 514,039,096 
+
+DSW01-HG4-LT.1#

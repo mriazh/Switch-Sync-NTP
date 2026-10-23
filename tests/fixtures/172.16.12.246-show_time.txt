@@ -1,0 +1,2 @@
+show timeTue Jan  2 01:20:24 1990
+ASW01-MD-DC#

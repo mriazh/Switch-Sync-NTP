@@ -1,0 +1,14 @@
+show version
+-----------------------------------------------------------------------------
+ArubaOS-CX
+(c) Copyright 2017-2020 Hewlett Packard Enterprise Development LP
+-----------------------------------------------------------------------------
+Version      : XL.10.04.3050                                                 
+Build Date   : 2020-12-14 14:00:25 PST                                       
+Build ID     : ArubaOS-CX:XL.10.04.3050:b654d12383df:202012142052            
+Build SHA    : b654d12383dfbcfa55694b05603bf7f90b7f6243                      
+Active Image : secondary                     
+
+Service OS Version : GT.01.05.0003                 
+BIOS Version       : GT-01-0021                    
+CSW01-MD-LT2-PRIMARY#

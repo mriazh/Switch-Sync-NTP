@@ -1,0 +1,8 @@
+show versionImage stamp:    /ws/swbuildm/rel_portland_qaoff/code/build/lakes(swbuildm_rel_portland_qaoff_rel_portland)
+                Nov  4 2015 15:40:18
+                YA.15.17.0009
+                375
+Boot Image:     Primary
+
+Boot ROM Version:    YA.15.17
+SW-MD-L1-2530#

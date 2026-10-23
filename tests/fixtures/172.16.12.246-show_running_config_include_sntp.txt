@@ -1,0 +1,4 @@
+show running-config | include sntptimesync sntp
+sntp unicast
+sntp server priority 1 192.168.240.240
+ASW01-MD-DC#

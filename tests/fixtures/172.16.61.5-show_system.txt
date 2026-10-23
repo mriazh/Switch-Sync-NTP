@@ -1,0 +1,26 @@
+show system
+
+ Status and Counters - General System Information
+
+  System Name        : SW01-UPG-2520                                   
+  System Contact     : 
+  System Location    : GMF UPG Bandara Lama
+
+  MAC Age Time (sec) : 300    
+
+  Time Zone          : 420  
+  Daylight Time Rule : None                      
+
+
+  Software revision  : J.14.01          Base MAC Addr      : 009c02-f836c0
+  ROM Version        : J.14.04          Serial Number      : SERIAL  
+
+  Up Time            : 49 days          Memory   - Total   : 33,554,432  
+  CPU Util (%)       : 11                          Free    : 20,312,704  
+
+  IP Mgmt  - Pkts Rx : 9,656,869        Packet   - Total   : 3022        
+             Pkts Tx : 9,071,426        Buffers    Free    : 2898        
+                                                   Lowest  : 2882        
+                                                   Missed  : 0           
+
+SW01-UPG-2520#

@@ -1,0 +1,24 @@
+show system
+ Status and Counters - General System Information
+
+  System Name        : SW-MD-L2-UNTA                                   
+  System Contact     : 
+  System Location    : 
+
+  MAC Age Time (sec) : 300    
+
+  Time Zone          : 0    
+  Daylight Time Rule : None                      
+
+  Software revision  : YA.15.17.0009        Base MAC Addr      : e0071b-9a2260
+  ROM Version        : YA.15.17             Serial Number      : SERIAL  
+
+  Up Time            : 20 hours             Memory   - Total   : 67,108,864  
+  CPU Util (%)       : 25                              Free    : 40,746,524  
+
+  IP Mgmt  - Pkts Rx : 119,708              Packet   - Total   : 3022        
+             Pkts Tx : 78,887               Buffers    Free    : 2906        
+                                                       Lowest  : 2773        
+                                                       Missed  : 0           
+
+SW-MD-L2-UNTA#

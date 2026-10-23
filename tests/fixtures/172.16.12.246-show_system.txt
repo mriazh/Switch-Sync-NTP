@@ -1,0 +1,60 @@
+show system
+ Status and Counters - General System Information
+
+  System Name        : ASW01-MD-DC                                     
+  System Contact     : 
+  System Location    : 
+  MAC Age Time (sec) : 300    
+  Time Zone          : 420  
+  Daylight Time Rule : None                      
+
+  Software revision  : WC.16.05.0004      
+  Base MAC Addr      : 20677c-5079cb    
+
+ VSF-Member :1
+
+  ROM Version        : WC.16.01.0004                 
+  Up Time            : 18 hours       
+  CPU Util (%)       : 0           
+  MAC Addr           : 20677c-5079c0    
+  Serial Number      : SERIAL                              
+  Memory   - Total   : 345,879,040 
+             Free    : 240,642,436 
+
+
+
+ VSF-Member :2
+
+  ROM Version        : WC.16.01.0004                 
+  Up Time            : 18 hours       
+  CPU Util (%)       : 0           
+  MAC Addr           : 20677c-50db40    
+  Serial Number      : SERIAL                              
+  Memory   - Total   : 345,879,040 
+             Free    : 256,057,120 
+
+
+
+ VSF-Member :3
+
+  ROM Version        : WC.16.01.0004                 
+  Up Time            : 18 hours       
+  CPU Util (%)       : 2           
+  MAC Addr           : 20677c-508900    
+  Serial Number      : SERIAL                              
+  Memory   - Total   : 345,879,040 
+             Free    : 223,615,220 
+
+
+
+ VSF-Member :4
+
+  ROM Version        : WC.16.01.0004                 
+  Up Time            : 18 hours       
+  CPU Util (%)       : 0           
+  MAC Addr           : 040973-9a8f80    
+  Serial Number      : SERIAL                              
+  Memory   - Total   : 345,879,040 
+             Free    : 256,197,192 
+
+ASW01-MD-DC#

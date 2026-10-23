@@ -1,0 +1,2 @@
+show timeMon Jan  1 20:03:49 1990
+SW-MD-L2-UNTA#
